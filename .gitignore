@@ -1,0 +1,17 @@
+# 🔒 File sensibili
+.env
+
+# ⚙️ File di ambiente virtuale
+venv/
+
+# 🚀 Cache e compilati Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 🗂️ Dati temporanei o di test
+data.json
+logs/
+*.log
+*.sqlite
+
